@@ -8,11 +8,11 @@ About
 -----
 This is the Git repository for the Landing Page of Codevel Micro-ISV.
 
-
 Credits
 -------
-All pages has been coded using GitHub&reg; [Atom] (https://atom.io/).
-The template is courtesy of [Start Bootstrap] (https://startbootstrap.com/).  
+All pages has been coded using [Atom] (https://atom.io/) editor.
+The template is courtesy of [Start Bootstrap] (https://startbootstrap.com/).
+Artwork "La Boca" generously provided [CC-BY] (https://creativecommons.org/licenses/by/2.0/) [Marissa Strniste] (https://www.flickr.com/photos/mstrniste/).
 
 Terms
 -----
